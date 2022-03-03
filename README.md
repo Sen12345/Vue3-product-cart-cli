@@ -1,24 +1,26 @@
 # Vue 3 product-cart Using  CLI
 
-## 
+## The following issues encountered in the cdn version of this application are resolved using the (Vue Cli)
 ```
-npm install
+###
 ```
-
+This is a single page application where the front-end does the routing instead of having to use a server to server up each page you navigate to
+```
+###
+```
+Persisting , saving and sharing data across pages
+```
 ### 
 ```
-npm run serve
+Losing data on page refresh
 ```
-
 ### 
 ```
-npm run build
+Losing data while navigating
 ```
-
 ### 
 ```
-npm run lint
+Illiminate the hassle of using in-browser storage such as (Local Storage and Session storage)
 ```
-
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
