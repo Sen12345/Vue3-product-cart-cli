@@ -13,6 +13,7 @@ Losing data on page refresh
 ```
 Losing data while navigating 
 ```
+```
 Illiminate the hassle of using in-browser storage such as (Local Storage and Session storage)
 ```
 ### Customize configuration
