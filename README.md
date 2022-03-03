@@ -1,6 +1,7 @@
 # Vue 3 product-cart Using  CLI
 
-## The following issues encountered in the cdn version of this application are resolved using the (Vue Cli)
+### The following issues encountered in the cdn version of this application are resolved using the (Vue Cli)
+```
 ```
 The front-end does the routing instead use a server to server up each page you navigate to
 ```
